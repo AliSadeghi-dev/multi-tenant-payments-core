@@ -1,4 +1,4 @@
-#📘 Internal Multi-Project Payment Platform
+📘 Internal Multi-Project Payment Platform
 System Design Document (Version 1.0)
 1. Overview
 
